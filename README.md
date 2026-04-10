@@ -1,4 +1,4 @@
-![mario sudo](./mario-sudo)
+<img src="./mario-sudo" width="400"/>
 
 # hey, I'm Luís 👋
 
