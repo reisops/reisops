@@ -2,20 +2,19 @@
 
 # hey, I'm Luís 👋
 
-Infrastructure-focused. Building systems, breaking them, and learning how to keep them running.
+Infrastructure-focused. I build systems, break them, fix them — and make sure they don't break the same way twice.
 
 ---
 
 🖥️ **Focus** — Linux, Networking & Cloud Infrastructure  
-📚 **Currently studying** — AWS (Solutions Architect path), Terraform and system administration  
-🔧 **Building** — Multi-VM lab environments with Linux servers, networking and self-hosted services  
-💬 **Ask me about** — Linux CLI, networking fundamentals, troubleshooting and cloud basics  
-⚡ **Fun fact** — Mario causes the incident; Luigi writes the postmortem
+📚 **Currently studying** — AWS (Solutions Architect path), Terraform & system administration  
+🔧 **Building** — Multi-VM lab environments (Linux servers, networking & self-hosted services)  
+💬 **Ask me about** — Linux CLI, networking fundamentals, troubleshooting & cloud basics  
+⚡ **Fun fact** — Mario causes the incident; Luigi writes the postmortem  
 📬 **Reach me** — [LinkedIn](https://www.linkedin.com/in/luis-reis-ops/)
 
 ---
 
 ```bash
 $ whoami
-infra-engineer-in-progress --learning --breaking-things-safely --logs=verbose
-```
+luigi.ops --infra-engineer-in-progress --fixing-mario-incidents --logs=verbose
