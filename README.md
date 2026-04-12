@@ -10,7 +10,7 @@ Infrastructure-focused. Building systems, breaking them, and learning how to kee
 📚 **Currently studying** — AWS (Solutions Architect path), Terraform and system administration  
 🔧 **Building** — Multi-VM lab environments with Linux servers, networking and self-hosted services  
 💬 **Ask me about** — Linux CLI, networking fundamentals, troubleshooting and cloud basics  
-⚡ **Fun fact** — I've learned the hard way that `sudo rm -rf` is never a good idea  
+⚡ **Fun fact** — Mario causes the incident; Luigi writes the postmortem
 📬 **Reach me** — [LinkedIn](https://www.linkedin.com/in/luis-reis-ops/)
 
 ---
