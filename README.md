@@ -5,123 +5,85 @@
 <h1 align="center">hey, I'm Luís 👋</h1>
 
 <p align="center">
-Infrastructure & Cloud Engineering student focused on Linux, networking, and real-world system troubleshooting.
+  Infrastructure & Cloud Engineering student — Linux, networking, and systems that break in interesting ways.
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis-reis-ops">LinkedIn</a> •
+  <a href="https://github.com/reisops">GitHub</a>
+</p>
 
-## 🎓 Learning Programs
+-----
 
-I’m currently enrolled in structured industry training programs:
+## $ whoami
 
-- ☁️ **AWS Re/Start (Escola da Nuvem)** — Cloud foundations, IAM, compute, networking and AWS core services *(scholarship program)*
-- 🌐 **Cisco CyberEdu — 12th Cyber Education Marathon** — Networking fundamentals + cybersecurity foundations *(scholarship program)*
+```bash
+reisops
+├── role:     Infrastructure & Cloud Engineering student
+├── focus:    Linux · Networking · Cloud · Troubleshooting
+├── labs:     AlmaLinux 9 on VirtualBox · Ubuntu Server multi-VM environments
+├── certs:    RHCSA (in progress) · AWS Re/Start · Cisco CyberEdu 2026
+└── mode:     break it → understand it → document it → don't break it the same way twice
+```
 
----
+-----
 
-## 🧠 About me
-
-I’m building my path in infrastructure engineering through structured learning programs and hands-on labs.
-
-I learn best by breaking things, debugging failures, and understanding how systems behave under pressure.
-
----
-
-## 🧩 Focus areas
-
-🖥️ **Linux & Infrastructure** — system administration, CLI workflows, troubleshooting, service management  
-🌐 **Networking & Security** — routing, switching, cybersecurity fundamentals (Cisco CyberEdu)  
-☁️ **Cloud Foundations** — AWS core services, IAM, compute, networking (AWS Re/Start)  
-🔧 **Hands-on Labs** — multi-VM environments, infrastructure simulation, self-hosted services  
-
----
-
-## 🏗️ Engineering Labs
-
-Practical systems I designed and built in lab environments:
-
-- 🛒 **Supermarket Sales Database System**
-  - Relational database simulating real retail operations
-  - Deployed and tested inside a Linux VM (web environment)
-  - Focus on data modeling, SQL queries, and infrastructure integration
-
-- 🧪 **Enterprise Linux Infrastructure Lab (completed)**
-  - Multi-VM Linux environment simulating production-like infrastructure
-  - Includes networking, web services, and system administration scenarios
-  - Built for hands-on troubleshooting and infrastructure practice
-
----
-
-## ⚡ Mindset
-
-> I build systems, break them, fix them — and make sure they don't break the same way twice.
-
-⚡ Mario causes the incident. Luigi writes the postmortem.
-
----
-
-## 💥 Incident Simulation Layer
-
-> Infrastructure is not stable. It is controlled chaos under load.
+## 🏗️ Projects
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/reisops/reisops/main/assets/metalslug.gif" width="320"/>
 </p>
 
-In real-world systems:
-- networks fail under load and misconfiguration  
-- services degrade under traffic spikes and resource pressure  
-- logs become the source of truth  
-- debugging becomes structured problem-solving under stress  
+### [enterprise-linux-lab](https://github.com/reisops/enterprise-linux-lab)
 
----
+Multi-VM Ubuntu Server environment simulating production-like infrastructure from scratch.
 
-## 📊 System Dashboard (SRE View)
+|Service               |Role                          |
+|----------------------|------------------------------|
+|DNS (BIND9)           |Internal name resolution      |
+|DHCP (isc-dhcp-server)|Dynamic IP assignment         |
+|Samba                 |File sharing / Windows interop|
+|Apache2 + WordPress   |Web hosting stack             |
+|MariaDB               |Database backend              |
+|Squid                 |Proxy server                  |
+|iptables              |Firewall and packet filtering |
 
----
+3 VMs, all interconnected, all configured manually. No shortcuts.
 
-### 🟢 System Health
+-----
 
-- Cloud: AWS Re/Start (active — scholarship program)
-- Networking: Cisco CyberEdu (active — scholarship program)
-- Linux: operational
-- Labs: completed and in use
+### [linux-troubleshooting](https://github.com/reisops/linux-troubleshooting)
 
----
+Documented real troubleshooting cases using a structured methodology:
 
-### ⚙️ Services
-
-- Linux VM environments — operational
-- Networking lab simulations — running
-- Cloud sandbox environments — active learning
-
----
-
-### 🏗️ Workloads
-
-- 🛒 Supermarket Sales Database System (VM-deployed)
-- 🧪 Enterprise Linux Infrastructure Lab (completed)
-- 🌐 Networking fundamentals (Cisco CyberEdu)
-
----
-
-### 📡 Events Log
-
-```bash
-[OK] enterprise-linux-lab completed and documented
-[OK] supermarket-db-system deployed in VM environment
-[OK] networking fundamentals in progress
-
-🚨 Incidents
-[WARN] production simulation active (Mario still unstable)
-[OK] no critical failures detected in lab environment
-
-👤 Identity Context
-$ whoami
-reisops --role=infra-engineer --focus=cloud+networking --mode=learning
-
-$ exit
-session terminated
+```
+OBSERVE → DIAGNOSE → FIX → DOCUMENT
 ```
 
-<p align="center"> <img src="https://raw.githubusercontent.com/reisops/reisops/main/assets/luigi.gif" width="130"/> </p> 
+Each case includes the exact command sequence used, reconstructed from shell history — not cleaned up after the fact.
+
+Cases documented so far: `systemd status=203/EXEC failure` · `networking issue resolved via DHCP renewal`
+
+-----
+
+### Supermarket Sales Database *(coming soon)*
+
+Relational database system for retail operations — data modeling, SQL queries, and infrastructure integration. Academic project, releasing after grade.
+
+-----
+
+## 🎓 Training Programs
+
+- ☁️ **AWS Re/Start** (Escola da Nuvem) — Cloud foundations, IAM, compute, networking *(scholarship)*
+- 🌐 **Cisco CyberEdu — Cyber Education Marathon 2026** — Networking + cybersecurity fundamentals *(scholarship)*
+- 🐧 **Linux System Administration** (4Linux) — Working toward RHCSA
+
+-----
+
+## ⚡ On incidents
+
+> Mario causes the incident. Luigi writes the postmortem.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reisops/reisops/main/assets/luigi.gif" width="130"/>
+</p>
