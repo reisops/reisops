@@ -62,7 +62,11 @@ OBSERVE → DIAGNOSE → FIX → DOCUMENT
 
 Each case includes the exact command sequence used, reconstructed from shell history — not cleaned up after the fact.
 
-Cases documented so far: `systemd status=203/EXEC failure` · `networking issue resolved via DHCP renewal`
+Cases documented so far:
+
+- `networking` — No internet: interface is up but default route is missing
+- `ssh` — SSH alias not resolving: could not connect to VM from host
+- `systemd` — Service fails to start: binary not found (status=203/EXEC)
 
 -----
 
