@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./mario-sudo" width="350"/>
+  <img src="./assets/mario-sudo" width="350"/>
 </p>
 
 <h1 align="center">hey, I'm Luís 👋</h1>
@@ -65,7 +65,7 @@ Practical systems I designed and built in lab environments:
 > Infrastructure is not stable. It is controlled chaos under load.
 
 <p align="center">
-  <img src="./assets/metalslug.gif" width="320"/>
+  <img src="https://raw.githubusercontent.com/reisops/reisops/main/assets/metalslug.gif" width="320"/>
 </p>
 
 In real-world systems:
@@ -124,4 +124,4 @@ $ exit
 session terminated
 ```
 
-<p align="center"> <img src="./assets/luigi.gif" width="130"/> </p> 
+<p align="center"> <img src="https://raw.githubusercontent.com/reisops/reisops/main/assets/luigi.gif" width="130"/> </p> 
