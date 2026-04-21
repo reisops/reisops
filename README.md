@@ -65,7 +65,7 @@ Practical systems I designed and built in lab environments:
 > Infrastructure is not stable. It is controlled chaos under load.
 
 <p align="center">
-  <img src="https://www.fightersgeneration.com/news2021/char/marco-metalslug-walker.gif" width="320"/>
+  <img src="./assets/metalslug.gif" width="320"/>
 </p>
 
 In real-world systems:
@@ -124,4 +124,4 @@ $ exit
 session terminated
 ```
 
-<p align="center"> <img src="https://giffiles.alphacoders.com/124/12402.gif" width="130"/> </p> 
+<p align="center"> <img src="./assets/luigi.gif" width="130"/> </p> 
