@@ -34,7 +34,7 @@ reisops
   <img src="https://raw.githubusercontent.com/reisops/reisops/main/assets/metalslug.gif" width="320"/>
 </p>
 
-### [enterprise-linux-lab](https://github.com/reisops/enterprise-linux-lab)
+### [Enterprise Linux Lab](https://github.com/reisops/enterprise-linux-lab)
 
 Multi-VM Ubuntu Server environment simulating production-like infrastructure from scratch.
 
@@ -52,7 +52,7 @@ Multi-VM Ubuntu Server environment simulating production-like infrastructure fro
 
 -----
 
-### [linux-troubleshooting](https://github.com/reisops/linux-troubleshooting)
+### [Linux Troubleshooting](https://github.com/reisops/linux-troubleshooting)
 
 Documented real troubleshooting cases using a structured methodology:
 
