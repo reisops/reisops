@@ -70,9 +70,9 @@ Cases documented so far:
 
 -----
 
-### Supermarket Sales Database *(coming soon)*
+### [Supermarket Sales Database](https://github.com/reisops/db-sales)
 
-Relational database system for retail operations — data modeling, SQL queries, and infrastructure integration. Academic project, releasing after grade.
+Relational database system for retail operations — data modeling, SQL queries, and automated stock control via trigger. Deployed on the MariaDB instance running on `vm2web` from the enterprise-linux-lab infrastructure.
 
 -----
 
