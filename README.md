@@ -1,7 +1,5 @@
 # Luís Reis
-
 Infrastructure & Cloud Engineering student — Linux, networking, and systems that break in interesting ways.
-
 [LinkedIn](https://www.linkedin.com/in/luis-reis-ops) · [GitHub](https://github.com/reisops)
 
 role: Infrastructure & Cloud Engineering student
