@@ -29,5 +29,5 @@ AWS Re/Start (Escola da Nuvem) · Cisco CyberEdu 2026 · Linux System Administra
 Ancient history, philosophy, science — mainly biology. Learning Dutch, slowly. Losing time to games, unapologetically.
 
 <p align="center">
-  <img src="./assets/haeckel-prosobranchia.jpg" width="380"/>
+  <img src="./10-Haeckel_Prosobranchia.jpg" width="380"/>
 </p>
