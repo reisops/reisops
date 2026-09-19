@@ -22,7 +22,6 @@ Real troubleshooting cases, documented with a fixed method: observe, diagnose, f
 
 **[Supermarket Sales Database](https://github.com/reisops/db-sales)**
 Relational database for retail operations — data modeling, SQL queries, automated stock control via trigger.
-
 ## Training
 AWS Re/Start (Escola da Nuvem) · Cisco CyberEdu 2026 · Linux System Administration (4Linux)
 
