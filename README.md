@@ -1,35 +1,80 @@
 # Luís Reis
 
-Infrastructure & Cloud Engineering student — Linux, networking, cloud, and systems that break in interesting ways.
+**Cloud Infrastructure | AWS | Linux | Networking | Observability**
 
-[LinkedIn](https://www.linkedin.com/in/luis-reis-ops) · [Email](mailto:luis.reis.cloud@tutamail.com)
+Cloud Computing student building and troubleshooting infrastructure through hands-on labs and practical projects.
 
-role: Infrastructure & Cloud Engineering student
+I focus on understanding systems from the inside out — from Linux services and networking to cloud infrastructure, automation and observability.
 
-focus: Linux · Networking · Cloud · Observability · Troubleshooting
+> *I build infrastructure to understand how systems behave — especially when they break.*
 
-certs: AWS Cloud Practitioner · AWS Re/Start · Cisco CyberEdu 2026
+## Focus
 
-mode: break it → understand it → document it → don't break it the same way twice
+- Cloud Infrastructure
+- AWS
+- Linux System Administration
+- Networking
+- Observability
+- Infrastructure Automation
+- Troubleshooting
 
-## Projects
+## Technical Stack
 
-**[Beeorn](https://github.com/reisops/beeorn)**
-Cloud-oriented beehive monitoring platform built around infrastructure, observability, and distributed systems — MQTT messaging, InfluxDB time-series storage, Flask REST API, Grafana dashboards and alerts, and containerized services running with Podman.
+**Cloud:** AWS · EC2 · S3 · VPC · IAM · Lambda · RDS · CloudWatch · EventBridge · SNS · Auto Scaling
 
-**[Enterprise Linux Lab](https://github.com/reisops/enterprise-linux-lab)**
-Multi-VM Ubuntu Server environment simulating production infrastructure — DNS (BIND9), DHCP, Samba, Apache2 + WordPress, MariaDB, Squid, iptables. 3 VMs, all configured manually.
+**Linux:** Fedora · Ubuntu Server · Debian · AlmaLinux · systemd · SSH · Bash
 
-**[Linux Troubleshooting](https://github.com/reisops/linux-troubleshooting)**
-Real troubleshooting cases, documented with a fixed method: observe, diagnose, fix, document. Reconstructed from shell history, not cleaned up after the fact.
+**Networking:** TCP/IP · DNS · DHCP · Subnetting · BIND9 · iptables · Squid
 
-**[Supermarket Sales Database](https://github.com/reisops/db-sales)**
-Relational database for retail operations — data modeling, SQL queries, automated stock control via trigger.
+**Observability:** Grafana · InfluxDB · MQTT
 
-## Training
+**Automation & Tools:** Python · Bash · AWS CLI · Terraform · Git · Podman · VirtualBox
 
-AWS Re/Start (Escola da Nuvem) · Cisco CyberEdu 2026 · Linux System Administration (4Linux)
+**Databases:** MariaDB · SQL
 
-## Off-duty
+## Featured Projects
 
-Ancient history, philosophy, science — mainly biology. Learning Dutch, slowly. Losing time to games, unapologetically.
+### [Beeorn — Observability Platform](https://github.com/reisops/beeorn)
+
+Cloud-oriented observability platform built with **Python, Flask, InfluxDB, Grafana, MQTT and rootless Podman**.
+
+Focus on metrics collection, time-series storage, dashboards, alerts, persistence, environment-based configuration and troubleshooting across containers, networking and SELinux.
+
+**Stack:** Python · Flask · InfluxDB · Grafana · MQTT · Podman · Linux
+
+### [Enterprise Linux Infrastructure Lab](https://github.com/reisops/enterprise-linux-lab)
+
+Multi-VM Linux infrastructure environment built from scratch using VirtualBox.
+
+Implementation and configuration of **DNS (BIND9), DHCP, SSH, Samba, Apache, MariaDB, Squid, iptables and systemd**, with network configuration, centralized services, firewall rules, name resolution and resource sharing.
+
+**Stack:** Linux · Networking · DNS · DHCP · Apache · MariaDB · Bash · VirtualBox
+
+### [Linux Troubleshooting](https://github.com/reisops/linux-troubleshooting)
+
+Hands-on troubleshooting cases documented through a practical workflow:
+
+**Observe → Diagnose → Fix → Document**
+
+Focus on Linux services, networking, system configuration, logs and incident troubleshooting.
+
+**Stack:** Linux · systemd · Networking · Bash · Troubleshooting
+
+### [db-sales — MariaDB Database & Inventory Management](https://github.com/reisops/db-sales)
+
+Relational database project focused on inventory management using **MariaDB**, including automated stock updates with triggers, referential integrity constraints and documented database design.
+
+**Stack:** MariaDB · SQL · Database Design
+
+## Certifications & Training
+
+- **AWS Certified Cloud Practitioner**
+- **AWS re/Start Graduate**
+- **Cisco Junior Cybersecurity Analyst**
+- **Cisco Network Technician**
+- **Linux Unhatched**
+
+## Connect
+
+**LinkedIn:** [linkedin.com/in/luis-reis-ops](https://www.linkedin.com/in/luis-reis-ops/)
+**Email:** [luis.reis.cloud@tutamail.com](mailto:luis.reis.cloud@tutamail.com)
