@@ -77,4 +77,5 @@ Relational database project focused on inventory management using **MariaDB**, i
 ## Connect
 
 **LinkedIn:** [linkedin.com/in/luis-reis-ops](https://www.linkedin.com/in/luis-reis-ops/)
+
 **Email:** [luis.reis.cloud@tutamail.com](mailto:luis.reis.cloud@tutamail.com)
