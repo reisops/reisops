@@ -60,7 +60,7 @@ Focus on Linux services, networking, system configuration, logs and incident tro
 
 **Stack:** Linux · systemd · Networking · Bash · Troubleshooting
 
-### [db-sales — MariaDB Database & Inventory Management](https://github.com/reisops/db-sales)
+### [MariaDB Database & Inventory Management](https://github.com/reisops/db-sales)
 
 Relational database project focused on inventory management using **MariaDB**, including automated stock updates with triggers, referential integrity constraints and documented database design.
 
