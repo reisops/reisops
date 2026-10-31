@@ -70,6 +70,7 @@ Relational database project focused on inventory management using **MariaDB**, i
 
 - **AWS Certified Cloud Practitioner**
 - **AWS re/Start Graduate**
+- **4Linux Linux System Administrator**
 - **Cisco Junior Cybersecurity Analyst**
 - **Cisco Network Technician**
 - **Linux Unhatched**
